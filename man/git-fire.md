@@ -6,7 +6,7 @@ NAME
 
 SYNOPSIS
 ========
-| **git-uncommit** [optional-branch-name]
+| **git-fire** [optional-branch-name]
 
 DESCRIPTION
 ===========
