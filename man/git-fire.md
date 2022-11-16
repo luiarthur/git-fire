@@ -6,7 +6,7 @@ NAME
 
 SYNOPSIS
 ========
-| **git-uncommit** [<optional-branch-name>]
+| **git-uncommit** [optional-branch-name]
 
 DESCRIPTION
 ===========
@@ -38,4 +38,4 @@ Arthur Lui
 
 SEE ALSO
 ========
-**git-commit(1)** **git-push(!)**
+**git-commit(1)** **git-push(1)**
